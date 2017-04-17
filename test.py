@@ -18,8 +18,7 @@ def calc(Y):
     return ret
 
 args = params()                                     # set up params
-training_set, testing_set = data_base.init(args.model_name,
-        args.label_size)                            # set up data base
+training_set, testing_set = data_base.init(args.model_name, args.label_size, resize_pics = (args.img_size, args.img_size))  # set up data base
 googlenet = GoogLeNet(args=args)                    # load GoogLeNet
 
 tot = args.label_size;
@@ -28,6 +27,8 @@ tp = 0
 fp = 0
 fn = 0
 tn = 0
+tot_pkl = len(testing_set)
+print("tot_pkl = %d" % tot_pkl)
 for f in testing_set:
     X, Y = pickle.load(gzip.open(f, 'rb'))
     Y_ = googlenet.predict(X)
@@ -35,6 +36,7 @@ for f in testing_set:
     output = calc(Y_)
 
     n = len(Y)
+    print("new test #: %d" % n)
     for i in range(0, n):
         if answer[i] == 1 and output[i] == 1:
             tp += 1

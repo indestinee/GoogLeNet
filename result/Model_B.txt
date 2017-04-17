@@ -1,0 +1,407 @@
+curses is not supported on this machine (please install/reinstall curses for an optimal experience)
+load existing checkpoint from test
+tot_pkl = 80
+new test #: 500
+precision = 0.931914894, recall = 0.883064516
+
+tp = 219, fn = 29, fp = 16, tn = 236
+
+new test #: 500
+precision = 0.933184855, recall = 0.853360489
+
+tp = 419, fn = 72, fp = 30, tn = 479
+
+new test #: 500
+precision = 0.938988095, recall = 0.851551957
+
+tp = 631, fn = 110, fp = 41, tn = 718
+
+new test #: 500
+precision = 0.942825112, recall = 0.849494949
+
+tp = 841, fn = 149, fp = 51, tn = 959
+
+new test #: 500
+precision = 0.940497336, recall = 0.847200000
+
+tp = 1059, fn = 191, fp = 67, tn = 1183
+
+new test #: 500
+precision = 0.937869822, recall = 0.844207723
+
+tp = 1268, fn = 234, fp = 84, tn = 1414
+
+new test #: 500
+precision = 0.941065831, recall = 0.850424929
+
+tp = 1501, fn = 264, fp = 94, tn = 1641
+
+new test #: 500
+precision = 0.941854087, recall = 0.852955787
+
+tp = 1717, fn = 296, fp = 106, tn = 1881
+
+new test #: 500
+precision = 0.943237907, recall = 0.853887399
+
+tp = 1911, fn = 327, fp = 115, tn = 2147
+
+new test #: 500
+precision = 0.943262411, recall = 0.852564103
+
+tp = 2128, fn = 368, fp = 128, tn = 2376
+
+new test #: 500
+precision = 0.945792880, recall = 0.855157279
+
+tp = 2338, fn = 396, fp = 134, tn = 2632
+
+new test #: 500
+precision = 0.946055046, recall = 0.855625622
+
+tp = 2578, fn = 435, fp = 147, tn = 2840
+
+new test #: 500
+precision = 0.944575870, recall = 0.857099049
+
+tp = 2795, fn = 466, fp = 164, tn = 3075
+
+new test #: 500
+precision = 0.944060339, recall = 0.857795545
+
+tp = 3004, fn = 498, fp = 178, tn = 3320
+
+new test #: 500
+precision = 0.942915691, recall = 0.858246736
+
+tp = 3221, fn = 532, fp = 195, tn = 3552
+
+new test #: 500
+precision = 0.943909816, recall = 0.858679340
+
+tp = 3433, fn = 565, fp = 204, tn = 3798
+
+new test #: 500
+precision = 0.943523316, recall = 0.858354938
+
+tp = 3642, fn = 601, fp = 218, tn = 4039
+
+new test #: 500
+precision = 0.944119082, recall = 0.858251996
+
+tp = 3869, fn = 639, fp = 229, tn = 4263
+
+new test #: 500
+precision = 0.944495837, recall = 0.857983193
+
+tp = 4084, fn = 676, fp = 240, tn = 4500
+
+new test #: 500
+precision = 0.943857332, recall = 0.857914749
+
+tp = 4287, fn = 710, fp = 255, tn = 4748
+
+new test #: 500
+precision = 0.943265392, recall = 0.856025934
+
+tp = 4489, fn = 755, fp = 270, tn = 4986
+
+new test #: 500
+precision = 0.943305187, recall = 0.856048166
+
+tp = 4692, fn = 789, fp = 282, tn = 5237
+
+new test #: 500
+precision = 0.942763538, recall = 0.853752182
+
+tp = 4892, fn = 838, fp = 297, tn = 5473
+
+new test #: 500
+precision = 0.943026267, recall = 0.852650945
+
+tp = 5098, fn = 881, fp = 308, tn = 5713
+
+new test #: 500
+precision = 0.943014380, recall = 0.852922286
+
+tp = 5312, fn = 916, fp = 321, tn = 5951
+
+new test #: 500
+precision = 0.943505718, recall = 0.851378408
+
+tp = 5528, fn = 965, fp = 331, tn = 6176
+
+new test #: 500
+precision = 0.943411745, recall = 0.851269111
+
+tp = 5735, fn = 1002, fp = 344, tn = 6419
+
+new test #: 500
+precision = 0.944100365, recall = 0.851841238
+
+tp = 5945, fn = 1034, fp = 352, tn = 6669
+
+new test #: 500
+precision = 0.944095574, recall = 0.851734144
+
+tp = 6164, fn = 1073, fp = 365, tn = 6898
+
+new test #: 500
+precision = 0.944345767, recall = 0.852029915
+
+tp = 6380, fn = 1108, fp = 376, tn = 7136
+
+new test #: 500
+precision = 0.944150079, recall = 0.851258877
+
+tp = 6593, fn = 1152, fp = 390, tn = 7365
+
+new test #: 500
+precision = 0.944421344, recall = 0.851856482
+
+tp = 6814, fn = 1185, fp = 401, tn = 7600
+
+new test #: 500
+precision = 0.945071179, recall = 0.851937046
+
+tp = 7037, fn = 1223, fp = 409, tn = 7831
+
+new test #: 500
+precision = 0.944806040, recall = 0.852678571
+
+tp = 7258, fn = 1254, fp = 424, tn = 8064
+
+new test #: 500
+precision = 0.945509586, recall = 0.852593267
+
+tp = 7496, fn = 1296, fp = 432, tn = 8276
+
+new test #: 500
+precision = 0.945307721, recall = 0.853796000
+
+tp = 7726, fn = 1323, fp = 447, tn = 8504
+
+new test #: 500
+precision = 0.944477541, recall = 0.853374960
+
+tp = 7927, fn = 1362, fp = 466, tn = 8745
+
+new test #: 500
+precision = 0.944766767, recall = 0.853280235
+
+tp = 8142, fn = 1400, fp = 476, tn = 8982
+
+new test #: 500
+precision = 0.944897036, recall = 0.853361946
+
+tp = 8351, fn = 1435, fp = 487, tn = 9227
+
+new test #: 500
+precision = 0.945161646, recall = 0.853782518
+
+tp = 8566, fn = 1467, fp = 497, tn = 9470
+
+new test #: 500
+precision = 0.945292347, recall = 0.854464199
+
+tp = 8795, fn = 1498, fp = 509, tn = 9698
+
+new test #: 500
+precision = 0.945051481, recall = 0.853415560
+
+tp = 8995, fn = 1545, fp = 523, tn = 9937
+
+new test #: 500
+precision = 0.944415957, recall = 0.853080130
+
+tp = 9209, fn = 1586, fp = 542, tn = 10163
+
+new test #: 500
+precision = 0.944644645, recall = 0.853409296
+
+tp = 9437, fn = 1621, fp = 553, tn = 10389
+
+new test #: 500
+precision = 0.944270323, recall = 0.853034861
+
+tp = 9641, fn = 1661, fp = 569, tn = 10629
+
+new test #: 500
+precision = 0.944327328, recall = 0.853468433
+
+tp = 9855, fn = 1692, fp = 581, tn = 10872
+
+new test #: 500
+precision = 0.944657739, recall = 0.853757617
+
+tp = 10088, fn = 1728, fp = 591, tn = 11093
+
+new test #: 500
+precision = 0.944536120, recall = 0.853321186
+
+tp = 10303, fn = 1771, fp = 605, tn = 11321
+
+new test #: 500
+precision = 0.944908031, recall = 0.853541903
+
+tp = 10531, fn = 1807, fp = 614, tn = 11548
+
+new test #: 500
+precision = 0.945299446, recall = 0.853637230
+
+tp = 10749, fn = 1843, fp = 622, tn = 11786
+
+new test #: 500
+precision = 0.945350945, recall = 0.853268916
+
+tp = 10950, fn = 1883, fp = 633, tn = 12034
+
+new test #: 500
+precision = 0.945186940, recall = 0.853824406
+
+tp = 11174, fn = 1913, fp = 648, tn = 12265
+
+new test #: 500
+precision = 0.944965552, recall = 0.854013503
+
+tp = 11384, fn = 1946, fp = 663, tn = 12507
+
+new test #: 500
+precision = 0.945392213, recall = 0.854003834
+
+tp = 11582, fn = 1980, fp = 669, tn = 12769
+
+new test #: 500
+precision = 0.945388933, recall = 0.854213463
+
+tp = 11789, fn = 2012, fp = 681, tn = 13018
+
+new test #: 500
+precision = 0.945471713, recall = 0.855048744
+
+tp = 12016, fn = 2037, fp = 693, tn = 13254
+
+new test #: 500
+precision = 0.945492500, recall = 0.854875918
+
+tp = 12229, fn = 2076, fp = 705, tn = 13490
+
+new test #: 500
+precision = 0.945251312, recall = 0.854657958
+
+tp = 12431, fn = 2114, fp = 720, tn = 13735
+
+new test #: 500
+precision = 0.944876008, recall = 0.855596889
+
+tp = 12650, fn = 2135, fp = 738, tn = 13977
+
+new test #: 500
+precision = 0.945275822, recall = 0.856269520
+
+tp = 12886, fn = 2163, fp = 746, tn = 14205
+
+new test #: 500
+precision = 0.945354797, recall = 0.856003660
+
+tp = 13096, fn = 2203, fp = 757, tn = 14444
+
+new test #: 500
+precision = 0.945244344, recall = 0.856160863
+
+tp = 13327, fn = 2239, fp = 772, tn = 14662
+
+new test #: 500
+precision = 0.945251397, recall = 0.856275304
+
+tp = 13536, fn = 2272, fp = 784, tn = 14908
+
+new test #: 500
+precision = 0.945533320, recall = 0.856048814
+
+tp = 13749, fn = 2312, fp = 792, tn = 15147
+
+new test #: 500
+precision = 0.945649227, recall = 0.856178672
+
+tp = 13954, fn = 2344, fp = 802, tn = 15400
+
+new test #: 500
+precision = 0.945527370, recall = 0.856503598
+
+tp = 14164, fn = 2373, fp = 816, tn = 15647
+
+new test #: 500
+precision = 0.945280168, recall = 0.857108821
+
+tp = 14390, fn = 2399, fp = 833, tn = 15878
+
+new test #: 500
+precision = 0.945479239, recall = 0.857519944
+
+tp = 14619, fn = 2429, fp = 843, tn = 16109
+
+new test #: 500
+precision = 0.945418606, recall = 0.857398948
+
+tp = 14827, fn = 2466, fp = 856, tn = 16351
+
+new test #: 500
+precision = 0.944947210, recall = 0.857533934
+
+tp = 15036, fn = 2498, fp = 876, tn = 16590
+
+new test #: 500
+precision = 0.945074701, recall = 0.857810038
+
+tp = 15245, fn = 2527, fp = 886, tn = 16842
+
+new test #: 500
+precision = 0.945326817, recall = 0.857815965
+
+tp = 15475, fn = 2565, fp = 895, tn = 17065
+
+new test #: 500
+precision = 0.945211259, recall = 0.857830534
+
+tp = 15682, fn = 2599, fp = 909, tn = 17310
+
+new test #: 500
+precision = 0.945316215, recall = 0.857867199
+
+tp = 15904, fn = 2635, fp = 920, tn = 17541
+
+new test #: 500
+precision = 0.945449207, recall = 0.857530890
+
+tp = 16101, fn = 2675, fp = 929, tn = 17795
+
+new test #: 500
+precision = 0.945149146, recall = 0.858029235
+
+tp = 16318, fn = 2700, fp = 947, tn = 18035
+
+new test #: 500
+precision = 0.945276761, recall = 0.857861962
+
+tp = 16531, fn = 2739, fp = 957, tn = 18273
+
+new test #: 500
+precision = 0.945247234, recall = 0.857625730
+
+tp = 16746, fn = 2780, fp = 970, tn = 18504
+
+new test #: 500
+precision = 0.944849869, recall = 0.858089649
+
+tp = 16961, fn = 2805, fp = 990, tn = 18744
+
+new test #: 500
+precision = 0.944924822, recall = 0.857850000
+
+tp = 17157, fn = 2843, fp = 1000, tn = 19000
+
+precision = 0.944924822, recall = 0.857850000
+
+tp = 17157, fn = 2843, fp = 1000, tn = 19000
+

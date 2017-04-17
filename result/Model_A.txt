@@ -1,0 +1,82 @@
+precision = 0.948717949, recall = 0.928870293
+tp = 222, fn = 17, fp = 12, tn = 249
+precision = 0.954838710, recall = 0.934736842
+tp = 444, fn = 31, fp = 21, tn = 504
+precision = 0.961647727, recall = 0.946853147
+tp = 677, fn = 38, fp = 27, tn = 758
+precision = 0.950836820, recall = 0.952830189
+tp = 909, fn = 45, fp = 47, tn = 999
+precision = 0.955260978, recall = 0.948190789
+tp = 1153, fn = 63, fp = 54, tn = 1230
+precision = 0.952804378, recall = 0.949556919
+tp = 1393, fn = 74, fp = 69, tn = 1464
+precision = 0.955075846, recall = 0.948435689
+tp = 1637, fn = 89, fp = 77, tn = 1697
+precision = 0.956588355, recall = 0.949315763
+tp = 1873, fn = 100, fp = 85, tn = 1942
+precision = 0.955223881, recall = 0.950067476
+tp = 2112, fn = 111, fp = 99, tn = 2178
+precision = 0.955792059, recall = 0.949572997
+tp = 2335, fn = 124, fp = 108, tn = 2433
+precision = 0.953903346, recall = 0.951074870
+tp = 2566, fn = 132, fp = 124, tn = 2678
+precision = 0.954979536, recall = 0.953029272
+tp = 2800, fn = 138, fp = 132, tn = 2930
+precision = 0.955049066, recall = 0.952035342
+tp = 3017, fn = 152, fp = 142, tn = 3189
+precision = 0.955522828, recall = 0.952436876
+tp = 3244, fn = 162, fp = 151, tn = 3443
+precision = 0.956198347, recall = 0.952002194
+tp = 3471, fn = 175, fp = 159, tn = 3695
+precision = 0.956711066, recall = 0.950623568
+tp = 3735, fn = 194, fp = 169, tn = 3902
+precision = 0.957400722, recall = 0.950764818
+tp = 3978, fn = 206, fp = 177, tn = 4139
+precision = 0.958078405, recall = 0.950753317
+tp = 4228, fn = 219, fp = 185, tn = 4368
+precision = 0.957619863, recall = 0.951509996
+tp = 4474, fn = 228, fp = 198, tn = 4600
+precision = 0.957503050, recall = 0.951697656
+tp = 4709, fn = 239, fp = 209, tn = 4843
+precision = 0.958180058, recall = 0.952096960
+tp = 4949, fn = 249, fp = 216, tn = 5086
+precision = 0.957553290, recall = 0.952082565
+tp = 5166, fn = 260, fp = 229, tn = 5345
+precision = 0.957643709, recall = 0.951379066
+tp = 5381, fn = 275, fp = 238, tn = 5606
+precision = 0.956714383, recall = 0.951041843
+tp = 5614, fn = 289, fp = 254, tn = 5843
+precision = 0.957126493, recall = 0.951830757
+tp = 5849, fn = 296, fp = 262, tn = 6093
+precision = 0.957019608, recall = 0.951942581
+tp = 6101, fn = 308, fp = 274, tn = 6317
+precision = 0.957727273, recall = 0.951671183
+tp = 6321, fn = 321, fp = 279, tn = 6579
+precision = 0.957387612, recall = 0.951120163
+tp = 6538, fn = 336, fp = 291, tn = 6835
+precision = 0.956749117, recall = 0.951102993
+tp = 6769, fn = 348, fp = 306, tn = 7077
+precision = 0.956860068, recall = 0.949857704
+tp = 7009, fn = 370, fp = 316, tn = 7305
+precision = 0.956763189, recall = 0.949606299
+tp = 7236, fn = 384, fp = 327, tn = 7553
+precision = 0.956421725, recall = 0.949625682
+tp = 7484, fn = 397, fp = 341, tn = 7778
+precision = 0.956500186, recall = 0.948973319
+tp = 7718, fn = 415, fp = 351, tn = 8016
+precision = 0.956464221, recall = 0.948818898
+tp = 7953, fn = 429, fp = 362, tn = 8256
+precision = 0.956440500, recall = 0.948905109
+tp = 8190, fn = 441, fp = 373, tn = 8496
+precision = 0.956156293, recall = 0.949576988
+tp = 8418, fn = 447, fp = 386, tn = 8749
+precision = 0.954972895, recall = 0.949719441
+tp = 8632, fn = 457, fp = 407, tn = 9004
+precision = 0.955534022, recall = 0.950315880
+tp = 8875, fn = 464, fp = 413, tn = 9248
+precision = 0.955937893, recall = 0.949463374
+tp = 9112, fn = 485, fp = 420, tn = 9483
+precision = 0.956241693, recall = 0.949446757
+tp = 9353, fn = 498, fp = 428, tn = 9721
+precision = 0.956241693, recall = 0.949446757
+tp = 9353, fn = 498, fp = 428, tn = 9721
